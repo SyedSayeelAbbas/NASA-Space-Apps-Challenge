@@ -1,6 +1,6 @@
-# 🌦️ Weather
+# 🌦️ WeatherLens
 
-### 🛰️ NASA Space Apps Challenge 2025 – Challenge: *“Weather Odds — How Likely Is It?”*
+### 🛰️ NASA Space Apps Challenge 2025 – Challenge: *“Will it rain on my parade?”*
 
 > **Know your weather odds — months in advance.**  
 > A personalized dashboard powered by NASA Earth observation data that helps users understand the **probability of extreme weather** (heat, cold, rain, wind, humidity) for any location and time of year.
