@@ -1,4 +1,4 @@
-# 🌦️ Extreme Weather Probability Dashboard
+# 🌦️ Weather
 
 ### 🛰️ NASA Space Apps Challenge 2025 – Challenge: *“Weather Odds — How Likely Is It?”*
 
